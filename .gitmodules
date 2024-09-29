@@ -1,0 +1,3 @@
+[submodule "temp_child"]
+	path = temp_child
+	url = https://github.com/sparsh-b/temp_child.git
